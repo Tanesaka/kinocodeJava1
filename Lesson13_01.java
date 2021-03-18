@@ -5,6 +5,10 @@ public class Lesson13_01{
 
     System.out.println(a001.name);
     a001.calculateAvg(90,80);
+
+    Student a002 = new Student();
+    a002.name = "suzuki";
+    System.out.println(a002.name);
   }
 }
 
